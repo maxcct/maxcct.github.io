@@ -41,7 +41,8 @@
 						<div class="animate-switch" ng-switch-when="Honest">
 							<div ng-repeat="entry in section.honest.entries" class="entry">
 								<h4><strong>{{ entry.w | uppercase }}</strong></h4>
-								<p><em>{{ entry.x }}</em></p>
+								<p ng-if="section.title != 'PROJECTS'"><em>{{ entry.x }}</em></p>
+								<p ng-if="section.title == 'PROJECTS'"><a href="http://{{ entry.x }}">{{ entry.x }}</a></p>
 								<p><strong>{{ entry.y }}</strong></p>
 								<p>{{ entry.z }}</p>
 								<hr>
@@ -50,7 +51,8 @@
 						<div class="animate-switch" ng-switch-when="Verbose">
 							<div ng-repeat="entry in section.verbose.entries" class="entry">
 								<h4><strong>{{ entry.w | uppercase }}</strong></h4>
-								<p><em>{{ entry.x }}</em></p>
+								<p ng-if="section.title != 'PROJECTS'"><em>{{ entry.x }}</em></p>
+								<p ng-if="section.title == 'PROJECTS'"><a href="http://{{ entry.x }}">{{ entry.x }}</a></p>
 								<p><strong>{{ entry.y }}</strong></p>
 								<p>{{ entry.z }}</p>
 								<hr>
