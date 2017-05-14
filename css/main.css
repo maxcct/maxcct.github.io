@@ -13,6 +13,10 @@
 		height: 10px !important;
 	}
 
+	#slider-background {
+		margin: 0 0 10px 0 !important;
+	}
+
 	select {
 		width: 30% !important;
 	}
