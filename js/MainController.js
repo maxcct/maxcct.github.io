@@ -92,7 +92,7 @@
 			},
 			'honest': {
 				entries: [{w: 'Preface',
-						   z: 'The following provides details of my career as a copyeditor. I find this work too lacking in creativity to wish to persist with – especially by comparison with programming, which I take sincere joy and find immense interest in – but the detail-focused, analytical nature of editing work does have significant skill crossover with software development.'},
+						   z: 'The following provides details of my career as a copyeditor. I am in the process of switching to a more fully creative mode of working, with a much heavier emphasis on programming and/or book editing. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -102,21 +102,21 @@
 						  {w: 'Southbank Centre',
 						   x: 'Aug 2015 to present',
 						   y: 'Freelance Editor',
-						   z: 'Copyediting, factchecking and copywriting (website content, brochures, programmes, marketing materials, etcetera), performed remotely. The interesting and worthwhile nature of the subject matter, and the quality of the people who work for Southbank Centre, offset the repetitiousness of the work.'},
+						   z: 'Copyediting, factchecking and copywriting (website content, brochures, programmes, marketing materials, etcetera), performed remotely. This is not my ideal kind of work – I prefer substantial, extended, unitary projects – but the subject matter is interesting and worthwhile, and the people who work for Southbank Centre are wonderful.'},
 
 						  {w: 'wordy.com',
 						   x: 'Dec 2015 to present',
 						   y: 'Copyeditor',
-						   z: 'Rewriting and copyediting for clients of this highly selective online provider of editorial services. As I say I am looking to get away from this kind of work, but wordy.com is a very well-designed platform and it treats its freelancers excellently.'},
+						   z: 'Rewriting and copyediting for clients of this highly selective online provider of editorial services. Again, I prefer bigger projects, but wordy.com is a very well-designed platform and it treats its freelancers excellently.'},
 
 						  {w: 'Groupon UK&IE',
 						   x: 'Apr 2011 to Sep 2014',
 						   y: 'Editor for London',
-						   z: 'Coordinated editorial for Greater London and Surrey (formerly Northern England). Was responsible for dozens of features a day, involving collaboration with many people in various roles companywide. Played a primary role in effecting a major transition from CMS- to software-based editorial practices. I stuck this job out for nearly three-and-a-half years while saving to go travelling in South America. It taught me that a career as an editor wasn’t for me. The best parts of the job, by far, were those that crossed over into areas that overlapped with programming, such as optimising HTML formatting and creating browser macros and custom-filtered Salesforce reports.'}]
+						   z: 'Coordinated editorial for Greater London and Surrey (formerly Northern England). Was responsible for dozens of features a day, involving collaboration with many people in various roles companywide. Played a primary role in effecting a major transition from CMS- to software-based editorial practices. The best parts of this job, by far, were those that crossed over into areas that overlapped with programming, such as optimising HTML formatting and creating browser macros and custom-filtered Salesforce reports.'}]
 			},
 			'verbose': {
 				entries: [{w: 'Preface',
-						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that defined my previous career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours.'},
+						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that defined my previous career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard, so I am looking to focus more on work of that nature as well as coding.'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
