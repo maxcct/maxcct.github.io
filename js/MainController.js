@@ -153,7 +153,7 @@
 			'conventional': {
 				entries: [{w: 'Elemental',
 						   x: 'github.com/maxcct/quintessence',
-						   z: 'A virtual board game played on a chess-like board. Built in Python.'},
+						   z: 'A virtual board game played on a chess-like board. Built in Python, using Tkinter for the GUI.'},
 
 						  {w: 'Interactive Résumé',
 						   x: 'github.com/maxcct/cv',
@@ -178,7 +178,7 @@
 			'honest': {
 				entries: [{w: 'Elemental',
 						   x: 'github.com/maxcct/quintessence',
-						   z: "A virtual board game played on a 24x24 chess board. Built in Python. I'm pretty proud of it – it's legitimately fun!"},
+						   z: "A virtual board game played on a 24x24 chess board. Built in Python, using Tkinter for the GUI. I'm pretty proud of it – it's legitimately fun!"},
 
 						  {w: 'Interactive Résumé',
 						   x: 'github.com/maxcct/cv',
@@ -203,7 +203,7 @@
 			'verbose': {
 				entries: [{w: 'Elemental',
 						   x: 'github.com/maxcct/quintessence',
-						   z: "A virtual board game played on a 24x24 chess board. Each player has three sets of air, fire, water and earth pieces. Each element has its own moveset and can attack one opposing element. Victory is achieved by getting one of each element to your opponent's side of the board, or by destroying all three of any of your opponent's element types (which would make it impossible for them to win). Built in Python."},
+						   z: "A virtual board game played on a 24x24 chess board. Each player has three sets of air, fire, water and earth pieces. Each element has its own moveset and can attack one opposing element. Victory is achieved by getting one of each element to your opponent's side of the board, or by destroying all three of any of your opponent's element types (which would make it impossible for them to win). Built in Python, using Tkinter for the GUI."},
 
 						  {w: 'Interactive Résumé',
 						   x: 'github.com/maxcct/cv',
