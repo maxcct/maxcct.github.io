@@ -69,7 +69,10 @@
 		{
 			title: 'EXPERIENCE',
 			'conventional': {
-				entries: [{w: 'Verso Books',
+				entries: [{w: 'Preface',
+						   z: 'My quiver holds many arrows: JavaScript web design, Python software engineering, full-stack combinations of those two languages, copyediting and copywriting. I’m available for hire in any or all of these capacities, and my rates are bargainously incommensurate with my proficiencies.'},
+
+						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
 						   y: 'Freelance Book Editor',
 						   z: 'General editorial work on a book to be published this year.'},
@@ -131,7 +134,7 @@
 						  {w: 'Southbank Centre',
 						   x: 'Aug 2015 to present',
 						   y: 'Freelance Editor',
-						   z: 'Copyediting, factchecking and copywriting (website content, brochures, programmes, marketing materials, etcetera). Southbank Centre is a major British cultural insitution encompassing a complex of artistic venues situated on the south bank of the Thames in London, England.'},
+						   z: 'Copyediting, factchecking and copywriting (website content, brochures, programmes, marketing materials, etcetera). Southbank Centre is a major British cultural institution encompassing a complex of artistic venues situated on the south bank of the Thames in London, England.'},
 
 						  {w: 'wordy.com',
 						   x: 'Dec 2015 to present',
@@ -204,7 +207,7 @@
 
 						  {w: 'Interactive Résumé',
 						   x: 'github.com/maxcct/cv',
-						   z: 'This page you’re looking at right now! Built using AngularJS, with a little help from Bootstrap. If you haven’t noticed it, please try moving around the slider above. The various backgrounds are versions of a photograph of me walking down the centre of the road that leads to Monument Valley in the US, taken by my mother (thatcamelwoman on Flickr). These different versions were created using a Tensorflow application (built by Logan Engstrom (github.com/lengstrom/fast-style-transfer), not me) that transfers styles from artwork to other images. The style sources are, respectively, Pablo Picasso’s ‘La Muse’, Leonid Afremov’s ‘Rain Princess’, Edvard Munch’s ‘Scream’, Francis Picabia’s ‘Udnie’, Hokusai’s ‘The Great Wave Off Kanagawa’ and Joseph Turner’s ‘The Shipwreck of the Minotaur’, plus a black-and-white version of the original photograph.'},
+						   z: 'This page you’re looking at right now! Built using AngularJS, with a little help from Bootstrap. If you haven’t noticed it, please try moving around the slider above. The various backgrounds are versions of a photograph of me walking down the centre of the road that leads to Monument Valley in the US, taken by Christa Lamb (thatcamelwoman on Flickr). These different versions were created using a Tensorflow application (built by Logan Engstrom (github.com/lengstrom/fast-style-transfer), not me) that transfers styles from artwork to other images. The style sources are, respectively, Pablo Picasso’s ‘La Muse’, Leonid Afremov’s ‘Rain Princess’, Edvard Munch’s ‘Scream’, Francis Picabia’s ‘Udnie’, Hokusai’s ‘The Great Wave Off Kanagawa’ and Joseph Turner’s ‘The Shipwreck of the Minotaur’, plus a black-and-white version of the original photograph.'},
 
 						  {w: 'Neighbourhood Map',
 						   x: 'maxcct.github.io/neighborhood-map',
