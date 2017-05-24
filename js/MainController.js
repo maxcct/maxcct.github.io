@@ -165,7 +165,7 @@
 
 						  {w: 'NGO Emporium',
 						   x: 'ec2-34-207-99-196.compute-1.amazonaws.com',
-						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy and OAuth 2.'},
+						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy/PostgreSQL, OAuth 2, jQuery and Wikipedia API. I also configured an Apache server on AWS and got the site up and running there.'},
 
 						  {w: 'Multi-User Blog',
 						   x: 'hwapp123.appspot.com/blog',
@@ -190,7 +190,7 @@
 
 						  {w: 'NGO Emporium',
 						   x: 'ec2-34-207-99-196.compute-1.amazonaws.com',
-						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy and OAuth 2.'},
+						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy/PostgreSQL, OAuth 2, jQuery and Wikipedia API. I also configured an Apache server on AWS and got the site up and running there.'},
 
 						  {w: 'Multi-User Blog',
 						   x: 'hwapp123.appspot.com/blog',
@@ -215,7 +215,7 @@
 
 						  {w: 'NGO Emporium',
 						   x: 'ec2-34-207-99-196.compute-1.amazonaws.com',
-						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy and OAuth 2.'},
+						   z: 'Database-backed web application with user auth, built using Python, JavaScript, Flask, SQLAlchemy/PostgreSQL, OAuth 2, jQuery and Wikipedia API. I also configured an Apache server on AWS and got the site up and running there.'},
 
 						  {w: 'Multi-User Blog',
 						   x: 'hwapp123.appspot.com/blog',
