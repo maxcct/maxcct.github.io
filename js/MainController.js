@@ -95,7 +95,7 @@
 			},
 			'honest': {
 				entries: [{w: 'Preface',
-						   z: 'The following provides details of my career as a copyeditor. I am in the process of switching to a more fully creative mode of working, with a much heavier emphasis on programming and/or book editing. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
+						   z: 'The following provides details of my career as a copyeditor. I am in the process of switching to a more fully creative mode of working, with a much heavier emphasis on programming and book editing. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -119,7 +119,7 @@
 			},
 			'verbose': {
 				entries: [{w: 'Preface',
-						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that defined my previous career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard, so I am looking to focus more on work of that nature as well as coding.'},
+						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that has defined my career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard in a way that manifests the optimal form of the author’s own intentions, rather than just translating the text into compliance with my own stylistic ideals. As such, I am looking to focus more on work of that nature in addition to coding.'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
