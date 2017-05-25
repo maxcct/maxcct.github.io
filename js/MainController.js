@@ -26,7 +26,7 @@
 				entries: [{w: 'Udacity',
 						   x: '2016–17',
 						   y: 'Full-Stack Web Developer Nanodegree',
-						   z: 'This is legitimately a serious, substantial qualification. It is intended to take around a year to complete, but I finished it in about three months by working on it virtually full time. The course projects, in particular, really require one to do professional-level work with little in the way of handholding.'},
+						   z: 'This is a serious, substantive qualification. It is intended to take around a year to complete, but I finished it in about three months by working on it virtually full time. The course projects, in particular, require one to do professional-level work with little in the way of handholding.'},
 
 					      {w: 'University of Cambridge',
 					       x: '2007–10',
@@ -52,12 +52,12 @@
 						  {w: 'University of Cambridge',
 						   x: '2007–10',
 						   y: 'Master of Arts (Cantab) in English, Upper Second Class',
-						   z: 'Why English, given I’m now a computer programmer? The schools I attended prior to university were nominally functional institutions whose energies were focused on getting as many students as possible to meet minimal educational requirements. Though I have always been at least as devoted to science as the arts, the mathematics education I’d received was rather cursory and so I felt excluded from physics, the scientific discipline I was most drawn to. Literary analysis, on the other hand, is a subject that draws much more on innate talent and simple volume and attentiveness of reading. My proficiency in the subject was much more manifestly evident, and I knew I could get accepted anywhere to study English, whereas my options would be much more limited in the natural sciences (let alone computer science, I’d never even been exposed to the idea of). A note on the class of my degree: I received firsts for all my dissertations, but was dragged down by my exam scores, because my handwriting is slow and I was always physically incapable of writing three complete essay answers in the allotted three hours. The fact that that archaic technology is still used for examinations seems absurd to me.'},
+						   z: 'Why English? I was torn between literature and physics, but the schools I attended prior to university were, it’s fair to say, not the best. Though I had a acquired a decent high-level understanding of relativity and quantum mechanics, the mathematics education I’d received was pretty cursory, so a degree in physics would have been a very steep hill to climb. Literary analysis, on the other hand, presents a much lower barrier to entry. I have no regrets, other than that I wish I’d heard of computer science, and so could have considered pursuing that discipline. A note on the class of my degree: I received firsts for all my dissertations, but was dragged down to an upper second by my exam scores, because my handwriting is slow and I could never get the words on paper fast enough to write three complete essay answers in the allotted three hours. Thankfully, these days the only time I have to write anything by hand is when filling out immigration cards on planes.'},
 
 						  {w: 'Stanford University / Coursera',
 						   x: 'Jan – Apr 2017',
 						   y: 'Machine Learning',
-						   z: 'This 11-week Mooc outlines the algorithms and techniques used in the most widely used approaches to machine learning, complete with programming exercised conducted in Octave/MATLAB. It covers linear and logistic regression, SVUs, K-means clustering, collaborative filtering and online learning, among other algorithms. It also covers topics such as bias and variance, feature and parameter regularisation normalisation. I passed with a total score of 99.6%.'},
+						   z: 'This 11-week Mooc outlines the algorithms and techniques employed in the most widely used approaches to machine learning, complete with programming exercises conducted in Octave/MATLAB. It covers linear and logistic regression, SVUs, K-means clustering, collaborative filtering and online learning, among other algorithms. It also covers topics such as bias and variance, feature and parameter regularisation normalisation. I passed with a total score of 99.6%.'},
 
 						  {w: 'MITx on edX',
 						   x: 'Jan – Mar 2017',
