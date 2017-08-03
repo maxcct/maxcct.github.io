@@ -52,7 +52,7 @@
 						  {w: 'University of Cambridge',
 						   x: '2007–10',
 						   y: 'Master of Arts (Cantab) in English, Upper Second Class',
-						   z: 'Why English? I was torn between literature and physics, but the schools I attended prior to university were, it’s fair to say, not the best. Though I had a acquired a decent high-level understanding of relativity and quantum mechanics even before I was a teenager, the mathematics education I’d received was pretty cursory, so a degree in physics would have been a very steep hill to climb. Literary analysis, on the other hand, presents a much lower barrier to entry. I have no regrets, other than that I wish I’d heard of computer science so I could have considered pursuing that discipline. A note on the class of my degree: I received firsts for all my dissertations, but was dragged down to an upper second by my exam scores, because my handwriting is slow and I could never get the words on paper fast enough to write three complete essay answers in the allotted three hours. Thankfully, these days the only time I have to write anything by hand is when filling out immigration cards on planes.'},
+						   z: 'Why English? I was torn between literature and physics, but the schools I attended prior to university were, it’s fair to say, not the best. Though I had a acquired a decent high-level understanding of relativity and quantum mechanics even before I was a teenager, the mathematics education I’d received was pretty cursory, so a degree in physics would have been a very steep hill to climb. Literary analysis, on the other hand, presents a much lower barrier to entry. I have no regrets, other than that I wish I’d heard of computer science so I could have considered pursuing that discipline. A note on the class of my degree: I received firsts for all my dissertations, but was dragged down to an upper second by my exam scores, because my handwriting is slow and I could never get the words on paper fast enough to write three complete essay answers in the allotted three hours.'},
 
 						  {w: 'Stanford University / Coursera',
 						   x: 'Jan – Apr 2017',
@@ -70,7 +70,7 @@
 			title: 'EXPERIENCE',
 			'conventional': {
 				entries: [{w: 'Preface',
-						   z: 'My quiver holds many arrows: JavaScript web design, Python software engineering, full-stack combinations of those two languages, copyediting and copywriting. I’m available for hire in any or all of these capacities, and my rates are bargainously incommensurate with my proficiencies.'},
+						   z: 'My quiver holds many arrows: JavaScript web design, Python software engineering, full-stack programming with either or both of those languages in combination with SQL, copyediting and copywriting. I’m available for hire in any or all of these capacities.'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -95,7 +95,7 @@
 			},
 			'honest': {
 				entries: [{w: 'Preface',
-						   z: 'The following provides details of my career as a copyeditor. I am in the process of switching to a more fully creative mode of working, with a much heavier emphasis on programming and book editing. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
+						   z: 'The following provides details of my career as a copyeditor. I am now focusing on my new career as a developer. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -119,7 +119,7 @@
 			},
 			'verbose': {
 				entries: [{w: 'Preface',
-						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that has defined my career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard in a way that manifests the optimal form of the author’s own intentions, rather than just translating the text into compliance with my own stylistic ideals. As such, I am looking to focus more on work of that nature in addition to coding.'},
+						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that has defined my career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard in a way that manifests the optimal form of the author’s own intentions, rather than just translating the text into compliance with my own stylistic ideals. As such, I am open to work of that nature as well as coding.'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
