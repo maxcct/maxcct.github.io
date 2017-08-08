@@ -19,7 +19,7 @@
 						   z: 'Machine Learning'},
 
 						  {w: 'MITx on edX',
-						   x: '2017',
+						   x: '2016',
 						   z: 'Introduction to Computer Science'}]
 			},
 			'honest': {
@@ -39,7 +39,7 @@
 						   z: 'This is a course certificate rather than something like the fully fledged Udacity ‘Nanodegree’ qualification. The course is an 11-week Mooc, complete with MATLAB programming exercises, which outlines the algorithms and techniques used in the most widespread approaches to machine leaning. It was extremely challenging, but I passed with a total score of 99.6%.'},
 
 						  {w: 'MITx on edX',
-						   x: '2017',
+						   x: '2016',
 						   y: 'Introduction to Computer Science',
 						   z: 'Also a course certificate, in this case for a seven-week Mooc that outlines the fundamental concepts of computer science using Python. It’s challenging, but I was more advanced with Python than the level the course is pitched at. I passed with a total score of 99.2%.'}]
 			},
@@ -60,7 +60,7 @@
 						   z: 'This 11-week Mooc outlines the algorithms and techniques employed in the most widely used approaches to machine learning, complete with programming exercises conducted in Octave/MATLAB. It covers linear and logistic regression, SVUs, K-means clustering, collaborative filtering and online learning, among other algorithms. It also covers topics such as bias and variance, feature and parameter regularisation normalisation. I passed with a total score of 99.6%.'},
 
 						  {w: 'MITx on edX',
-						   x: 'Jan – Mar 2017',
+						   x: 'Jul – Sep 2016',
 						   y: 'Introduction to Computer Science and Programming Using Python',
 						   z: 'This seven-week Mooc outlines the fundamental concepts of computer science. It covers subjects such as data structures, recursion, search-and-sort algorithms, Big O notation and so on. I passed with a total score of 99.2%.'}]
 			}
