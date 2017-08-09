@@ -235,7 +235,7 @@
 	$scope.name = 'MAX CHARLES COMPTON TREVITT';
 	$scope.github = 'github.com/maxcct';
 	$scope.linkedin = 'linkedin.com/in/maxcct';
-	$scope.email = 'maxcct@cantab.net';
+	$scope.email = 'maxtrevitt@gmail.com';
 	$scope.mobile = '07498 036045';
 	}]);
 })(window.angular);
