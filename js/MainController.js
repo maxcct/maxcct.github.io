@@ -69,8 +69,9 @@
 		{
 			title: 'EXPERIENCE',
 			'conventional': {
-				entries: [{w: 'Preface',
-						   z: 'My quiver holds many arrows: JavaScript web design, Python software engineering, full-stack programming with either or both of those languages in combination with SQL, copyediting and copywriting. I’m available for hire in any or all of these capacities.'},
+				entries: [{w: 'SpareRoom',
+						   x: 'Aug 2017 to present',
+						   y: 'Front-End Developer'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -94,8 +95,9 @@
 						   z: 'Coordinated editorial for Greater London and Surrey (formerly Northern England). Was responsible for dozens of features a day, involving collaboration with many people in various roles companywide. Played a primary role in effecting a major transition from CMS- to software-based editorial practices.'}]
 			},
 			'honest': {
-				entries: [{w: 'Preface',
-						   z: 'The following provides details of my career as a copyeditor. I am now focusing on my new career as a developer. The detail-focused, analytical nature of editing work has significant skill crossover with software development.'},
+				entries: [{w: 'SpareRoom',
+						   x: 'Aug 2017 to present',
+						   y: 'Front-End Developer'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -118,8 +120,9 @@
 						   z: 'Coordinated editorial for Greater London and Surrey (formerly Northern England). Was responsible for dozens of features a day, involving collaboration with many people in various roles companywide. Played a primary role in effecting a major transition from CMS- to software-based editorial practices. The best parts of this job, by far, were those that crossed over into areas that overlapped with programming, such as optimising HTML formatting and creating browser macros and custom-filtered Salesforce reports.'}]
 			},
 			'verbose': {
-				entries: [{w: 'Preface',
-						   z: 'In software development I have found a vocation that consistently gratifies, interests and excites me. Prepared by my intensive studies – and by the analytical, detail-oriented work involving many stakeholders that has defined my career as an editor, outlined below – I am eager to dedicate myself to this discipline and begin participating in disruptive engineering endeavours. I also take great joy in book editing and have found I am adept at efficiently and effectively raising long-form prose to a significantly higher standard in a way that manifests the optimal form of the author’s own intentions, rather than just translating the text into compliance with my own stylistic ideals. As such, I am open to work of that nature as well as coding.'},
+				entries: [{w: 'SpareRoom',
+						   x: 'Aug 2017 to present',
+						   y: 'Front-End Developer'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
