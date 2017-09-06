@@ -71,7 +71,7 @@
 			'conventional': {
 				entries: [{w: 'SpareRoom',
 						   x: 'Aug 2017 to present',
-						   y: 'Front-End Developer'},
+						   y: 'Foundation Developer'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -97,7 +97,7 @@
 			'honest': {
 				entries: [{w: 'SpareRoom',
 						   x: 'Aug 2017 to present',
-						   y: 'Front-End Developer'},
+						   y: 'Foundation Developer'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to present',
@@ -122,7 +122,7 @@
 			'verbose': {
 				entries: [{w: 'SpareRoom',
 						   x: 'Aug 2017 to present',
-						   y: 'Front-End Developer'},
+						   y: 'Foundation Developer'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
