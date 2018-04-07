@@ -70,7 +70,7 @@
 			title: 'EXPERIENCE',
 			'concise': {
 				entries: [{w: 'SpareRoom',
-						   x: 'Aug 2017 to present',
+						   x: 'Sep 2017 to present',
 						   y: 'Web Developer',
 						   z: 'Develop new features and maintain existing functionality for SpareRoom’s online platforms.'},
 
@@ -102,7 +102,7 @@
 			},
 			'descriptive': {
 				entries: [{w: 'SpareRoom',
-						   x: 'Aug 2017 to present',
+						   x: 'Sep 2017 to present',
 						   y: 'Web Developer',
 						   z: 'We are currently in the process of modernising SpareRoom’s online platforms. I am one of a three-person team working on transforming the front-end from a vanilla JavaScript- and Xslate-templating-based system layered on top of a perl back-end, into a webpack set-up using ES6, React and a RESTful interface with the back-end.'},
 
@@ -133,9 +133,9 @@
 			},
 			'verbose': {
 				entries: [{w: 'SpareRoom',
-						   x: 'Aug 2017 to present',
+						   x: 'Sep 2017 to present',
 						   y: 'Web Developer',
-						   z: 'I have been instrumental in building and revamping features such as the user profile functionality, the payments flow and the site navigation, as well as helping to modernise the platform’s front-end technology.'},
+						   z: 'I have been instrumental in building and revamping features such as API-based user profile functionality, a unified system for controlling modals, the payments flow and the site navigation, as well as helping to modernise the platform’s front-end technology.'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
