@@ -134,7 +134,8 @@
 			'verbose': {
 				entries: [{w: 'SpareRoom',
 						   x: 'Aug 2017 to present',
-						   y: 'Foundation Developer'},
+						   y: 'Web Developer',
+						   z: 'I have been instrumental in building and revamping features such as the user profile functionality, the payments flow and the site navigation, as well as helping to modernise the platform’s front-end technology.'},
 
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
