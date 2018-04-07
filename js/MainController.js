@@ -77,7 +77,7 @@
 						  {w: 'Wildcat Dispatches: For Dangerous Times',
 						   x: 'Nov 2016 to present',
 						   y: 'Webmaster and Lead Editor',
-						   z: 'Co-founded this online political magazine.'},,
+						   z: 'Co-founded this online political magazine.'},
 
 						  {w: 'Verso Books',
 						   x: 'Oct 2016 to Sep 2017',
@@ -166,6 +166,35 @@
 		{
 			title: 'PROJECTS',
 			'concise': {
+				entries: [{w: 'Events Page',
+						   x: 'maxcct.github.io/event-page',
+						   z: 'React'},
+
+						  {w: 'Elemental',
+						   x: 'github.com/maxcct/quintessence',
+						   z: 'Python with Tkinter GUI'},
+
+						  {w: 'Interactive Résumé',
+						   x: 'github.com/maxcct/cv',
+						   z: 'AngularJS'},
+
+						  {w: 'Neighbourhood Map',
+						   x: 'maxcct.github.io/neighborhood-map',
+						   z: 'Knockout'},
+
+						  {w: 'NGO Emporium',
+						   x: 'ec2-34-207-99-196.compute-1.amazonaws.com',
+						   z: 'Python, JavaScript, Flask, SQLAlchemy/PostgreSQL, OAuth 2 and the Wikipedia API'},
+
+						  {w: 'Multi-User Blog',
+						   x: 'hwapp123.appspot.com/blog',
+						   z: 'Python, Jinja2, Google App Engine and Google Cloud Datastore'},
+
+						  {w: 'Tournament Simulator',
+						   x: 'github.com/maxcct/tournament',
+						   z: 'Python and PostgreSQL'}]
+			},
+			'descriptive': {
 				entries: [{w: 'Events Page',
 						   x: 'maxcct.github.io/event-page',
 						   z: 'A listing page for an event, built using React. This was my SpareRoom technical test.'},
